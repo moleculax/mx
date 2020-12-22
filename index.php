@@ -8,6 +8,7 @@
         <?php
         // prueba
         phpinfo();
+        
         ?>
     </body>
 </html>
